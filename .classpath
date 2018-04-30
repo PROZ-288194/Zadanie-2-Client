@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib"/>
+	<classpathentry kind="lib" path="lib/grizzly-framework-2.3.7.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-http-2.3.7.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-http-server-2.3.7.jar"/>
+	<classpathentry kind="lib" path="lib/javax.websocket-api-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/tyrus-client-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/tyrus-container-grizzly-client-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/tyrus-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/tyrus-spi-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-codec-1.11/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-codec-1.11/commons-codec-1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-codec-1.11/commons-codec-1.11-sources.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-codec-1.11/commons-codec-1.11-tests.jar"/>
+	<classpathentry kind="lib" path="/home/obalcevi/eclipse-workspace/WebSocketClient/lib/commons-codec-1.11/commons-codec-1.11-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
